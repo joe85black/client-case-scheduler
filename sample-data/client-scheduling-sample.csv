@@ -1,0 +1,51 @@
+Name,Service Type,Person Responsible,Due Date,Payment Date,Delivery Date,Rush Fee,Task Status,Deal Status,Days Remaining,Notes / Observations,Due Date Month
+Sample Client 01,Category A (Complete),Staff A,01/05/2027,01/05/2027,01/07/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 02,Category D,Staff B,01/06/2027,,,,Task Completed,Deal Completed,Closed,Awaiting translation of supporting documents,January
+Sample Client 03,Category A (Petition),Staff A,01/07/2027,01/27/2027,01/29/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 04,Category D,Staff C,01/08/2027,,,,Task Completed,Deal Completed,Closed,,January
+Sample Client 05,Category C,Staff A,01/09/2027,,,,Task Completed,Deal Completed,Closed,,January
+Sample Client 06,Category A (Complete),Staff A,01/09/2027,01/09/2027,01/13/2027,,Task Completed,Deal Completed,Closed,Rush quote requested by client,January
+Sample Client 07,Category B (Complete),Staff A,01/12/2027,,,,Task Completed,Deal Completed,Closed,Final delivery deadline approaching,January
+Sample Client 08,Category B (Complete),Staff A,01/12/2027,,,,Task Completed,Deal Completed,Closed,Final deadline is the 15th,January
+Sample Client 09,Category E (Delivery),Staff A,01/14/2027,,,,Task Completed,Deal Completed,Closed,Final deadline this week,January
+Sample Client 10,Category A (Complete),Staff A,01/14/2027,01/14/2027,01/16/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 11,Category C,Staff D,01/15/2027,,,,Task Completed,Deal Completed,Closed,"Awaiting translation, bank statement, and photos",January
+Sample Client 12,Category A (Complete),Staff A,01/15/2027,01/16/2027,01/20/2027,,Task Completed,Deal Completed,Closed,Client traveling out of state - delivered early,January
+Sample Client 13,Category E (Delivery),Staff A,01/16/2027,,,,Task Completed,Deal Completed,Closed,,January
+Sample Client 14,Category A (Complete),Staff A,01/16/2027,01/16/2027,01/20/2027,,Task Completed,Deal Completed,Closed,Delivered ahead of schedule - status expires soon,January
+Sample Client 15,Category D,Staff B,01/20/2027,,,,Task Completed,Deal Completed,Closed,Status expires end of month,January
+Sample Client 16,Category A (Complete),Staff A,01/20/2027,01/20/2027,01/21/2027,Rush Fee,Task Completed,Deal Completed,Closed,Rush fee quoted and accepted,January
+Sample Client 17,Category B (Complete),Staff A,01/21/2027,,,,Task Completed,Deal Completed,Closed,Eligible as of the 17th,January
+Sample Client 18,Category A (Complete),Staff A,01/22/2027,01/26/2027,01/28/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 19,Category D,Staff B,01/23/2027,,,,Task Completed,Deal Completed,Closed,Program start date confirmed,January
+Sample Client 20,Category C,Staff C,01/23/2027,,,Rush Fee,Task Completed,Deal Completed,Closed,,January
+Sample Client 21,Category A (Complete),Staff A,01/27/2027,01/27/2027,01/28/2027,Rush Fee,Task Completed,Deal Completed,Closed,,January
+Sample Client 22,Category A (Complete),Staff A,01/29/2027,02/03/2027,02/05/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 23,Category A (Complete),Staff A,01/30/2027,02/02/2027,02/04/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 24,Category D,Staff C,02/02/2027,,,,Task Completed,Deal Completed,Closed,,February
+Sample Client 25,Category B (Complete),Staff C,02/02/2027,,,,Task Completed,Deal Completed,Closed,Final deadline tomorrow,February
+Sample Client 26,Category B (Complete),Staff D,02/02/2027,,,,Task Completed,Deal Completed,Closed,Final deadline today,February
+Sample Client 27,Category A (Complete),Staff A,02/02/2027,02/02/2027,02/04/2027,,Task Completed,Deal Completed,Closed,,February
+Sample Client 28,Category B (Complete),Staff C,02/02/2027,,,,Task Completed,Deal Completed,Closed,Case was delayed and never reviewed - expedite,February
+Sample Client 29,Category B (Complete),Staff D,02/03/2027,,,,Task Completed,Deal Completed,Closed,Final deadline was the 10th but underlying status expires the 14th - expedited,February
+Sample Client 30,Category B (Complete),Staff D,02/03/2027,,,,Task Completed,Deal Completed,Closed,Final deadline today,February
+Sample Client 31,Category A (Complete),Staff A,02/03/2027,02/04/2027,02/05/2027,Rush Fee,Task Open,Deal Completed,5,,February
+Sample Client 32,Category B (Complete),Staff D,02/05/2027,,,,Task Completed,Deal Completed,Closed,Final deadline the 12th,February
+Sample Client 33,Category B (Complete),Staff D,02/06/2027,,,,Task Completed,Deal Completed,Closed,Final deadline today,February
+Sample Client 34,Category C,Staff C,02/06/2027,,,,Task Completed,Deal Completed,Closed,,February
+Sample Client 35,Category D,Staff B,02/06/2027,,,,Task Open,Deal Completed,3,,February
+Sample Client 36,Category C/D (Dependents),Staff C,02/06/2027,,,,Task Completed,Deal Completed,Closed,,February
+Sample Client 37,Category B (Complete),Staff D,02/09/2027,,,,Task Completed,Deal Completed,Closed,Final deadline the 13th,February
+Sample Client 38,Category A (Complete),Staff A,02/09/2027,02/09/2027,02/09/2027,Rush Fee,Task Completed,Deal Completed,Closed,Dispatch scheduled for Monday,February
+Sample Client 39,Category E (Delivery),Staff E,02/10/2027,,,,Task Completed,Deal Completed,Closed,Final deadline,February
+Sample Client 40,Category F,Staff A,02/10/2027,,,,Task Completed,Deal Completed,Closed,,February
+Sample Client 41,Category E (Delivery),Staff D,02/11/2027,,,,Task Completed,Deal Completed,Closed,Final deadline the 18th,February
+Sample Client 42,Category F,Staff A,02/12/2027,,,,Task Completed,Deal Completed,Closed,,February
+Sample Client 43,Category A (Complete),Staff A,02/12/2027,02/13/2027,02/18/2027,,Task Open,Deal Completed,7,,February
+Sample Client 44,Category B (Complete),Staff D,02/13/2027,,,,Task Completed,Deal Completed,Closed,Final deadline the 17th,February
+Sample Client 45,Category B (Complete),Staff C,02/18/2027,,,,Task Completed,Deal Completed,Closed,Final deadline the 24th,February
+Sample Client 46,Category A (Complete),Staff E,02/18/2027,02/20/2027,02/24/2027,,Task Completed,Deal Completed,Closed,,February
+Sample Client 47,Category G,Staff B,02/19/2027,,,,Task Completed,Deal Completed,Closed,Enrollment confirmation on file,February
+Sample Client 48,Category H,Staff E,02/20/2027,,,,Task Completed,Deal Completed,Closed,Printed copy mailed same day,February
+Sample Client 49,Category I,Staff D,02/24/2027,,,,Task Open,Deal Completed,4,Permit needed before upcoming travel,February
+Sample Client 50,Category A (Economic),Staff F,02/26/2027,03/02/2027,03/04/2027,,Task Completed,Deal Completed,Closed,,February
