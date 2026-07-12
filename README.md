@@ -59,7 +59,7 @@ See [`colorCalendarTasks.gs`](./colorCalendarTasks.gs) for the full script.
 
 ## Case Category Key
 
-Case-type codes are genericized consistently with the rest of this account's Google Sheets repos ([Google-Sheets-Formulas](https://github.com/joe85black/Google-Sheets-Formulas), [Harden-Google-Sheet](https://github.com/joe85black/Harden-Google-Sheet)):
+Case-type codes are genericized consistently with the rest of this account's Google Sheets repos ([google-sheets-formulas](https://github.com/joe85black/google-sheets-formulas), [harden-google-sheet](https://github.com/joe85black/harden-google-sheet)):
 
 | Placeholder | Stands in for |
 |---|---|
