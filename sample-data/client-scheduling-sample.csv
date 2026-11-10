@@ -1,0 +1,51 @@
+Name,Service Type,Person Responsible,Due Date,Payment Date,Delivery Date,Rush Fee,Task Status,Deal Status,Days Remaining,Notes / Observations,Due Date Month
+Sample Client 01,Starter Full,Staff A,01/05/2027,01/05/2027,01/07/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 02,Quick Check Pro,Staff B,01/06/2027,,,,Task Completed,Deal Completed,Closed,Awaiting supporting documents from client,January
+Sample Client 03,Starter Filing,Staff A,01/07/2027,01/27/2027,01/29/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 04,Quick Check Pro,Staff C,01/08/2027,,,,Task Completed,Deal Completed,Closed,,January
+Sample Client 05,Quick Check,Staff A,01/09/2027,,,,Task Completed,Deal Completed,Closed,,January
+Sample Client 06,Starter Full,Staff A,01/09/2027,01/09/2027,01/13/2027,,Task Completed,Deal Completed,Closed,Rush quote requested by client,January
+Sample Client 07,Business Plus Full,Staff A,01/12/2027,,,,Task Completed,Deal Completed,Closed,Final delivery deadline approaching,January
+Sample Client 08,Business Plus Full,Staff A,01/12/2027,,,,Task Completed,Deal Completed,Closed,Final deadline is the 15th,January
+Sample Client 09,Annual Review (Delivery),Staff A,01/14/2027,,,,Task Completed,Deal Completed,Closed,Final deadline this week,January
+Sample Client 10,Starter Full,Staff A,01/14/2027,01/14/2027,01/16/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 11,Quick Check,Staff D,01/15/2027,,,,Task Completed,Deal Completed,Closed,"Awaiting signed agreement, invoice copy, and intake form",January
+Sample Client 12,Starter Full,Staff A,01/15/2027,01/16/2027,01/20/2027,,Task Completed,Deal Completed,Closed,Client unavailable next week - delivered early,January
+Sample Client 13,Annual Review (Delivery),Staff A,01/16/2027,,,,Task Completed,Deal Completed,Closed,,January
+Sample Client 14,Starter Full,Staff A,01/16/2027,01/16/2027,01/20/2027,,Task Completed,Deal Completed,Closed,Delivered ahead of schedule at client request,January
+Sample Client 15,Quick Check Pro,Staff B,01/20/2027,,,,Task Completed,Deal Completed,Closed,Client needs this by end of month,January
+Sample Client 16,Starter Full,Staff A,01/20/2027,01/20/2027,01/21/2027,Rush Fee,Task Completed,Deal Completed,Closed,Rush fee quoted and accepted,January
+Sample Client 17,Business Plus Full,Staff A,01/21/2027,,,,Task Completed,Deal Completed,Closed,Client available starting the 17th,January
+Sample Client 18,Starter Full,Staff A,01/22/2027,01/26/2027,01/28/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 19,Quick Check Pro,Staff B,01/23/2027,,,,Task Completed,Deal Completed,Closed,Kickoff date confirmed,January
+Sample Client 20,Quick Check,Staff C,01/23/2027,,,Rush Fee,Task Completed,Deal Completed,Closed,,January
+Sample Client 21,Starter Full,Staff A,01/27/2027,01/27/2027,01/28/2027,Rush Fee,Task Completed,Deal Completed,Closed,,January
+Sample Client 22,Starter Full,Staff A,01/29/2027,02/03/2027,02/05/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 23,Starter Full,Staff A,01/30/2027,02/02/2027,02/04/2027,,Task Completed,Deal Completed,Closed,,January
+Sample Client 24,Quick Check Pro,Staff C,02/02/2027,,,,Task Completed,Deal Completed,Closed,,February
+Sample Client 25,Business Plus Full,Staff C,02/02/2027,,,,Task Completed,Deal Completed,Closed,Final deadline tomorrow,February
+Sample Client 26,Business Plus Full,Staff D,02/02/2027,,,,Task Completed,Deal Completed,Closed,Final deadline today,February
+Sample Client 27,Starter Full,Staff A,02/02/2027,02/02/2027,02/04/2027,,Task Completed,Deal Completed,Closed,,February
+Sample Client 28,Business Plus Full,Staff C,02/02/2027,,,,Task Completed,Deal Completed,Closed,Work was delayed and not yet reviewed - expedite,February
+Sample Client 29,Business Plus Full,Staff D,02/03/2027,,,,Task Completed,Deal Completed,Closed,Final deadline was the 10th but client's own cutoff is the 14th - expedited,February
+Sample Client 30,Business Plus Full,Staff D,02/03/2027,,,,Task Completed,Deal Completed,Closed,Final deadline today,February
+Sample Client 31,Starter Full,Staff A,02/03/2027,02/04/2027,02/05/2027,Rush Fee,Task Open,Deal Completed,5,,February
+Sample Client 32,Business Plus Full,Staff D,02/05/2027,,,,Task Completed,Deal Completed,Closed,Final deadline the 12th,February
+Sample Client 33,Business Plus Full,Staff D,02/06/2027,,,,Task Completed,Deal Completed,Closed,Final deadline today,February
+Sample Client 34,Quick Check,Staff C,02/06/2027,,,,Task Completed,Deal Completed,Closed,,February
+Sample Client 35,Quick Check Pro,Staff B,02/06/2027,,,,Task Open,Deal Completed,3,,February
+Sample Client 36,Quick Check Family,Staff C,02/06/2027,,,,Task Completed,Deal Completed,Closed,,February
+Sample Client 37,Business Plus Full,Staff D,02/09/2027,,,,Task Completed,Deal Completed,Closed,Final deadline the 13th,February
+Sample Client 38,Starter Full,Staff A,02/09/2027,02/09/2027,02/09/2027,Rush Fee,Task Completed,Deal Completed,Closed,Dispatch scheduled for Monday,February
+Sample Client 39,Annual Review (Delivery),Staff E,02/10/2027,,,,Task Completed,Deal Completed,Closed,Final deadline,February
+Sample Client 40,Flex Option,Staff A,02/10/2027,,,,Task Completed,Deal Completed,Closed,,February
+Sample Client 41,Annual Review (Delivery),Staff D,02/11/2027,,,,Task Completed,Deal Completed,Closed,Final deadline the 18th,February
+Sample Client 42,Flex Option,Staff A,02/12/2027,,,,Task Completed,Deal Completed,Closed,,February
+Sample Client 43,Starter Full,Staff A,02/12/2027,02/13/2027,02/18/2027,,Task Open,Deal Completed,7,,February
+Sample Client 44,Business Plus Full,Staff D,02/13/2027,,,,Task Completed,Deal Completed,Closed,Final deadline the 17th,February
+Sample Client 45,Business Plus Full,Staff C,02/18/2027,,,,Task Completed,Deal Completed,Closed,Final deadline the 24th,February
+Sample Client 46,Starter Full,Staff E,02/18/2027,02/20/2027,02/24/2027,,Task Completed,Deal Completed,Closed,,February
+Sample Client 47,Growth Plan,Staff B,02/19/2027,,,,Task Completed,Deal Completed,Closed,Signed confirmation on file,February
+Sample Client 48,Essentials Pack,Staff E,02/20/2027,,,,Task Completed,Deal Completed,Closed,Printed copy mailed same day,February
+Sample Client 49,Premier Plan,Staff D,02/24/2027,,,,Task Open,Deal Completed,4,Client needs completion before quarter end,February
+Sample Client 50,Starter Lite,Staff F,02/26/2027,03/02/2027,03/04/2027,,Task Completed,Deal Completed,Closed,,February
